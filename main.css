@@ -1,0 +1,43 @@
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+#TopSection{
+    background: url("image/CatBgPhoto.jpg") no-repeat  center;
+    background-size:auto;
+    background-size: 100%;
+    color: white;
+    padding: 0;
+    
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inline{
+    display: inline;
+    text-align: center;
+}
+#MeowCoinTitle{
+    padding-left: 5px;
+}
+.MeowCoinBlock{
+    padding:0 !important;
+    margin: 0 !important;
+}
+#rowspace{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+}
+#signuprow{
+    background: darkviolet;
+    padding-bottom: 20px;
+}
+.WhiteText{
+    color:white;
+}
+
